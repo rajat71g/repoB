@@ -4,3 +4,5 @@ Hi This is repo A java folder
 This is for second commit
 
 Changes done to check
+
+Hi This is new change
